@@ -6,7 +6,7 @@ namespace Knight
 {
     public partial class MainWindow : Window
     {
-        // Характеристики тёмного принца
+        // Характеристики тёмного принца ыаыа
         private string knightName = "Артур";
         private string castleName = "Камелот";
         private int deedsCount = 0;
